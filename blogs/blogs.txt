@@ -1,0 +1,13 @@
+https://ramankurai.hashnode.dev/css-selectors-101-targeting-elements-with-precision 
+
+https://ramankurai.hashnode.dev/understanding-html-tags-and-elements
+
+https://ramankurai.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup
+
+https://ramankurai.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
+
+https://ramankurai.hashnode.dev/why-version-control-exists-the-pendrive-problem
+
+https://ramankurai.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder
+
+https://ramankurai.hashnode.dev/git-for-beginners-basic-and-essential-commands
